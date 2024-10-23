@@ -432,4 +432,58 @@ span.span-check i {
 
 }
 /* fine sezione altro container sezione second */
+/* inizio sezione partner */
+
+.sezione-partner {
+
+    display: flex;
+
+    justify-content: center;
+
+    margin-top: 150px;
+
+    margin-left: 360px;
+
+}
+
+
+div.img-sezione-partner img {
+
+    margin-right: 10px;
+
+    width: 650px;
+
+    height: 600px;
+
+}
+
+.text-sezione-partner {
+
+    margin-left: 50px;
+
+    width: 350px;
+    
+}
+
+div.partner {
+
+    margin-top: 30px;
+
+    border: 1px solid black;
+
+    width: 140px;
+
+    padding: 10px;
+
+}
+
+.span-partner a {
+
+    color: black;
+
+    text-decoration: none;
+
+}
+/* fine sezione partner */
+
 

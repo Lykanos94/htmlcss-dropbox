@@ -14,3 +14,5 @@ htmlcss-dropbox
 6. creato sezioni anche per team e azienda
 
 7. finito la creazione della sezione con team e utente ma sara da revisionare
+
+8. fatto anche sezione partner con div con immagine interna un p e uno span con al suo interno un link 
