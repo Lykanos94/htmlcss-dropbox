@@ -16,3 +16,11 @@ htmlcss-dropbox
 7. finito la creazione della sezione con team e utente ma sara da revisionare
 
 8. fatto anche sezione partner con div con immagine interna un p e uno span con al suo interno un link 
+
+9. inizio sezione card 
+
+10. creato sezione card con un testo sopra 
+
+11. creato un div come container per le card
+
+12. prima card messa 

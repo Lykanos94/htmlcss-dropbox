@@ -197,13 +197,16 @@ header {
 
     margin-top: 100px;
 
-    padding-bottom: 500;
-
 }
-
 .second-section-h2 {
 
     font-size: 2.9rem;
+
+}
+
+div.second-section-container {
+
+    margin-left: 90px;
 
 }
 
@@ -233,6 +236,8 @@ div.div-container {
     width: 300px;
 
     height: 1000px;
+
+    
 
     border: 1px solid black;
 
@@ -344,6 +349,8 @@ font-size: 15px;
     padding: 10px;
 
     margin-right: 85px;
+
+    text-align: center;
 }
 
 .span-prova-gratis a {
@@ -485,5 +492,44 @@ div.partner {
 
 }
 /* fine sezione partner */
+/* inizio sezione card */
 
+.section-card {
 
+    display: flex;
+
+    justify-content: center;
+
+    margin-top: 100px;
+
+}
+
+.titolo-sopra-card > h2 {
+
+    font-size: 2.0rem;
+
+}
+
+div.container-card {
+
+    display: flex;
+
+}
+
+div.card img {
+
+    width: 300px;
+
+    height: 300px;
+
+}
+
+.card {
+
+    margin-top: 150px;
+
+    width: 300px;
+
+    height: 500px;
+
+}
