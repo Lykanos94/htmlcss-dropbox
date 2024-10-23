@@ -306,6 +306,7 @@ div.div-container {
 
     margin-top: 30px;
 
+
 }
 
 .span-utente {
@@ -329,6 +330,8 @@ font-size: 15px;
     margin-top: 10px;
 
     font-size: 15px;
+
+    
 
 }
 
@@ -376,4 +379,57 @@ font-size: 15px;
     font-weight: bold;
 
 }
+
+span.span-check {
+
+    margin-top: 10px;
+
+}
+
+span.span-check i {
+
+    color: #0061FF;
+
+    font-weight: bold;
+
+}
+
+.div-sotto-sotto-single-quarto {
+
+    display: flex;
+
+    flex-direction: column;
+
+    
+
+}
+
+.contatti{
+
+    font-weight: bold;
+
+}
+
+
+.span-prova-gratis-quarto {
+
+    background-color: #0061FF;
+
+    align-self: flex-end;
+
+    margin-top: -95px;
+
+    margin-right: 20px;
+
+    padding: 10px;
+}
+
+.span-prova-gratis-quarto a {
+
+    color: white;
+
+    text-decoration: none;
+
+}
+/* fine sezione altro container sezione second */
 
