@@ -43,3 +43,4 @@ htmlcss-dropbox
 
 21. aggiunto scroll quando si clicca sulla freccia in basso 
 
+22. allineato span con classe span-prova-gratis
