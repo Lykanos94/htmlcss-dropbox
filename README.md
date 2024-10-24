@@ -44,3 +44,5 @@ htmlcss-dropbox
 21. aggiunto scroll quando si clicca sulla freccia in basso 
 
 22. allineato span con classe span-prova-gratis
+
+23. aggiunto linee per separare link acquista ora da punti salienti

@@ -410,6 +410,25 @@ margin-top: 8px;
 
 }
 
+.div-riga-due {
+
+    display: flex;
+
+    align-self: flex-start;
+
+    margin-top: 40px;
+
+    background-color: black;
+
+    height: 2px;
+
+    width: 60px;
+
+    opacity: 0.3;
+
+
+}
+
 .punti-salienti {
 
     margin-top: 80px;
