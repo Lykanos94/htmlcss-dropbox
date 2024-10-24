@@ -28,3 +28,5 @@ htmlcss-dropbox
 13. messo le altre card e centrato il container con esse dentro 
 
 14. messo h2 sotto la sezione card con link
+
+15. inizio footer
