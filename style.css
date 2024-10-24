@@ -178,6 +178,12 @@ padding-bottom: 31px;
 
 }
 
+html {
+
+    scroll-behavior: smooth;
+
+}
+
 .first-section-img {
 
     display: flex;
@@ -258,8 +264,6 @@ div.div-container {
 
     height: 1000px;
 
-    
-
     border: 1px solid black;
 
 }
@@ -328,10 +332,11 @@ div.div-container {
 
     flex-wrap: wrap;
 
+    position: relative;
+
     margin-left: 10px;
 
     margin-top: 30px;
-
 
 }
 
@@ -339,15 +344,11 @@ div.div-container {
 
 margin-top: 30px;
 
-font-size: 15px;
-
 }
 
 .span-5tb {
 
     margin-top: 10px;
-
-    font-size: 15px;
 
 }
 
@@ -355,13 +356,11 @@ font-size: 15px;
 
     margin-top: 10px;
 
-    font-size: 15px;
-
-    
-
 }
 
 .span-prova-gratis {
+
+    top: 300px;
 
     background-color: #0061FF;
 
@@ -383,6 +382,7 @@ font-size: 15px;
     font-size: 15px;
 
 }
+
 
 .span-oppure {
 

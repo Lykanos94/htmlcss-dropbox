@@ -39,4 +39,7 @@ htmlcss-dropbox
 
 19. sistemato header con hover sulle varie opzioni adesso c'è la linea che compare sotto all'hover
 
-20. allineato tutto mi manca solo una cosa
+20. allineato tutto
+
+21. aggiunto scroll quando si clicca sulla freccia in basso 
+
