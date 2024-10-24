@@ -24,3 +24,7 @@ htmlcss-dropbox
 11. creato un div come container per le card
 
 12. prima card messa 
+
+13. messo le altre card e centrato il container con esse dentro 
+
+14. messo h2 sotto la sezione card con link
