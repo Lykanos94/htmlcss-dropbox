@@ -580,3 +580,63 @@ div.card img {
 /* fine section card */
 /* fine main */
 /* inizio footer */
+/* inizio li */
+footer {
+
+    display: flex;
+
+    justify-content: center;
+
+    background-color: black;
+
+    min-height: 600px;
+
+}
+
+.container-ul-footer {
+
+    display: flex;
+
+    justify-content: center;
+
+    justify-content: space-between;
+
+    background-color: yellow;
+
+    min-width: 1200px;
+
+    height: 550px;
+
+    margin-top: 50px;
+
+}
+
+.container-ul-footer > ul > li:first-of-type {
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+    list-style-type: none;
+
+    margin-bottom: 20px;
+
+    color: white;
+
+}
+
+.container-ul-footer > ul > li:not(:first-of-type) {
+
+    list-style-type: none;
+
+}
+
+.container-ul-footer > ul > li:not(:first-of-type) a {
+
+    text-decoration: none;
+
+    color: white;
+
+}
+/* fine li */
+/* parte finale footer */

@@ -30,3 +30,7 @@ htmlcss-dropbox
 14. messo h2 sotto la sezione card con link
 
 15. inizio footer
+
+16. creato div come container per le ul li
+
+17. 
