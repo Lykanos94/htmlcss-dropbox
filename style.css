@@ -601,7 +601,7 @@ footer {
 
     justify-content: space-between;
 
-    background-color: yellow;
+    position: relative;
 
     min-width: 1200px;
 
@@ -640,3 +640,32 @@ footer {
 }
 /* fine li */
 /* parte finale footer */
+
+.div-riga {
+
+    position: absolute;
+
+    top: 400px;
+
+    left: 20px;
+
+    background-color: white;
+
+    height: 3px;
+
+    width: 120px;
+
+}
+
+.container-span-footer {
+
+    position: absolute;
+
+    top: 450px;
+
+    left: 20px;
+
+    color: white;
+
+}
+/* fine */

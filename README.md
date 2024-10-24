@@ -33,4 +33,7 @@ htmlcss-dropbox
 
 16. creato div come container per le ul li
 
-17. 
+17. creato div per riga sotto a ul li
+
+18. creato div con span per testo
+
