@@ -38,8 +38,6 @@ header {
 
     align-items: center;
 
-
-
 }
 
 .navbar-left > ul > li:not(:first-of-type) a:hover {
@@ -61,7 +59,6 @@ padding-bottom: 31px;
     color: black;
 
 }
-
 
 .navbar-rigth > ul {
 
@@ -106,9 +103,11 @@ padding-bottom: 31px;
     color: white;
 
 }
+
 /* fine header */
 /* inizio main */
 /* prima sezione */
+
 .first-section {
 
     background-color: #B4D0E7;
@@ -167,7 +166,6 @@ padding-bottom: 31px;
 
     text-decoration: none;
 
-
 }
 
 .fa-arrow-down {
@@ -209,8 +207,10 @@ html {
     font-weight: bold;
 
 }
+
 /* fine prima sezione */
 /* seconda sezione  */
+
 .second-section {
 
     display: flex;
@@ -235,7 +235,6 @@ html {
     font-size: 2.9rem;
 
 }
-
 
 .span-rigth {
 
@@ -339,8 +338,6 @@ div.div-container {
     margin-top: 30px;
 
 }
-
-
 
 .span-utente {
 
@@ -451,7 +448,6 @@ span.span-check i {
 
 }
 
-
 .span-prova-gratis-quarto {
 
     background-color: #0061FF;
@@ -472,6 +468,7 @@ span.span-check i {
     text-decoration: none;
 
 }
+
 /* fine sezione altro container sezione second */
 /* inizio sezione partner */
 
@@ -503,7 +500,7 @@ div.img-sezione-partner img {
     margin-left: 50px;
 
     width: 350px;
-    
+
 }
 
 div.partner {
@@ -525,6 +522,7 @@ div.partner {
     text-decoration: none;
 
 }
+
 /* fine sezione partner */
 /* inizio sezione card */
 
@@ -615,10 +613,12 @@ div.card img {
     margin-top: 50px;
 
 }
+
 /* fine section card */
 /* fine main */
 /* inizio footer */
 /* inizio li */
+
 footer {
 
     display: flex;
