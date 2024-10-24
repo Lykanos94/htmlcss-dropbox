@@ -37,3 +37,6 @@ htmlcss-dropbox
 
 18. creato div con span per testo
 
+19. sistemato header con hover sulle varie opzioni adesso c'è la linea che compare sotto all'hover
+
+20. allineato tutto mi manca solo una cosa

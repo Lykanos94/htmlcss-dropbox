@@ -38,7 +38,17 @@ header {
 
     align-items: center;
 
+
+
 }
+
+.navbar-left > ul > li:not(:first-of-type) a:hover {
+
+border-bottom: 1px  solid black;
+
+padding-bottom: 31px;
+
+} 
 
 .navbar-left li a {
 
@@ -63,6 +73,14 @@ header {
 
     align-items: center;
 
+
+}
+
+.navbar-rigth > ul > li:not(:last-of-type) a:hover {
+
+    border-bottom: 1px  solid black;
+
+    padding-bottom: 31px;
 
 }
 
@@ -115,7 +133,7 @@ header {
 
     font-size: 3.5rem;
 
-    margin-right: 120px;
+    margin-right: 150px;
 
 }
 
@@ -125,7 +143,7 @@ header {
 
     height: 400px;
 
-    margin-right: 650px;
+    margin-right: 800px;
 
     margin-top: 120px;
 
@@ -155,6 +173,8 @@ header {
 .fa-arrow-down {
 
     font-size: 40px;
+
+    padding-bottom: 10px;
 
 }
 
@@ -189,7 +209,7 @@ header {
 
     display: flex;
 
-    justify-content: center;
+    justify-content: flex-start;
 
     align-items: center;
 
@@ -197,18 +217,19 @@ header {
 
     margin-top: 100px;
 
+    margin-left: 450px;
+
 }
 .second-section-h2 {
+
+    display: flex;
+
+    align-self: flex-start;
 
     font-size: 2.9rem;
 
 }
 
-div.second-section-container {
-
-    margin-left: 90px;
-
-}
 
 .span-rigth {
 
@@ -221,9 +242,9 @@ div.div-container {
 
     display: flex;
 
-    flex-wrap: wrap;
+    justify-content: flex-start;
 
-    margin-left: 600px;
+    flex-wrap: wrap;
 
 }
 
@@ -449,7 +470,7 @@ span.span-check i {
 
     margin-top: 150px;
 
-    margin-left: 360px;
+    margin-left: 70px;
 
 }
 
@@ -514,6 +535,8 @@ div.partner {
 
     margin-bottom: 30px;
 
+    margin-right: 300px;
+
 }
 
 .container-card {
@@ -557,6 +580,8 @@ div.card img {
     justify-content: space-around;
 
     align-self: flex-start;
+
+    margin-top: 100px;
 
     margin-left: 450px;
 
